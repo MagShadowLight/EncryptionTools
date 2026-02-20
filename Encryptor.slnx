@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Encryptor/Encryptor.csproj" />
+  <Project Path="EncryptorTools/EncryptorTools.csproj" Id="e8ad5ce8-3840-4aec-b5f7-c3e1445c9ad7" />
+</Solution>
